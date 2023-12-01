@@ -1,4 +1,4 @@
-# Introduction to Programming 2 - Final Project
+# University of London - Introduction to Programming 2 Final Project
 ## Visual Sound Interaction Music Player Interface
 This project serves as the final submission for the University of London module "Introduction to Programming II." It entails the development of a music player interface using JavaScript that offers a visual representation of sound interaction through seven distinct visual modes: Spectrum, Face Wavepattern, Needles, Disco, Red Pill, Matrix, and Art. These visual graphics respond dynamically to the audio of the songs being played. Additionally, users can toggle the visual menu by pressing the spacebar and control song playback by clicking on the play or pause button.
 
